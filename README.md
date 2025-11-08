@@ -78,6 +78,7 @@ Battery capacity, acceleration, and efficiency strongly affect EV price.
 Model generalizes well and is not overfitting (train R² ≈ test R²).
 
 Can be extended with XGBoost, hyperparameter tuning, or integrated Streamlit UI for real-time predictions.
+
 <img width="1300" height="799" alt="image" src="https://github.com/user-attachments/assets/fa12901b-4ae4-46bb-8949-0a4a501d8bfe" />
 <img width="910" height="708" alt="Screenshot 2025-10-28 173916" src="https://github.com/user-attachments/assets/0db507b9-f7ae-4482-b6da-30ad67b4889a" />
 
